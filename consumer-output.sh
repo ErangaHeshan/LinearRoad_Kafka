@@ -1,0 +1,1 @@
+java -Xmx3072m -Xms3072m -cp .:bin:lib/kafka_2.8.0-0.8.0.jar:lib/scala-library.jar:lib/slf4j-api-1.7.2.jar:lib/slf4j-simple-1.6.4.jar:lib/log4j-1.2.15.jar:lib/zkclient-0.3.jar:lib/zookeeper-3.3.4.jar:lib/metrics-core-2.2.0.jar:lib/commons-logging-1.1.1.jar org.linear.kafka.output.Output
